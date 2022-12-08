@@ -1,8 +1,8 @@
 ##### About Tool ####
 # Link - X    :    Hack With Link
-# Author     :    ToxicNoob
+# Author     :    Shadow
 # Version    :    1.0
-# GitHub     :    https://github.com/Toxic-Noob/
+# GitHub     :    https://github.com/AlamgirMHT/
 
 # Learn Everything, Teach Everyone
 # Be a Toxic, Become a Legion
